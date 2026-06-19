@@ -1,0 +1,29 @@
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Data_extraction.exe
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Data_extraction.deps.json
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Data_extraction.runtimeconfig.json
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Data_extraction.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Data_extraction.pdb
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.csproj.AssemblyReference.cache
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.AssemblyInfoInputs.cache
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.AssemblyInfo.cs
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.csproj.CoreCompileInputs.cache
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\refint\Data_extraction.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.pdb
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.genruntimeconfig.cache
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\ref\Data_extraction.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Accord.dll.config
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Accord.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Accord.Math.Core.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Accord.Math.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\bin\Debug\net6.0\Accord.Statistics.dll
+C:\Users\bensa\source\repos\Homeworks\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.csproj.CopyComplete
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.csproj.AssemblyReference.cache
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.AssemblyInfoInputs.cache
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.AssemblyInfo.cs
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.csproj.CoreCompileInputs.cache
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.dll
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\refint\Data_extraction.dll
+C:\Users\bensa\OneDrive\Documents\Coursi singoli\SCOOP\Project\Final_Project_BenAttias\Data_extraction\obj\Debug\net6.0\Data_extraction.pdb

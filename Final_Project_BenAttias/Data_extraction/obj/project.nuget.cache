@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVu4kCV1HW8XC4HJx3zDLRNevLnUDf9sqy9eGC6BjIxODJEXx2DndNGtiXrbxNCH7RkXICe1D5uH3qkzVjX2SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bensa\\source\\repos\\Homeworks\\Final_Project_BenAttias\\Data_extraction\\Data_extraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bensa\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\bensa\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\bensa\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
