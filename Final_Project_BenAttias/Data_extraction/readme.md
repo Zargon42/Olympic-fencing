@@ -1,6 +1,6 @@
 # data extraction
 
-extract relevant data values from each file for analyisis and run quries to check completeness of data
+extract relevant data values from each file for analyisis and run queries to check completeness of data
 	check for missing values, whether data fit within expected ranges
 
 ## data format
