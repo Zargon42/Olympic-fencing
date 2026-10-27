@@ -9,7 +9,7 @@ The dataset of historical ranking data was excluded due to non-homogeneity of th
 
 The actual input and output sets were constructed as an array of objects of the constructed class Bout which drew on raw data from the bout data CSV as well biographical and tournament specific data drawn from separate Lists (project). The relationship and class hierarchy is displayed in Figure 1
 
-![figure 1](figure 1.png)
+![figure 1](figure_1.png)
 
 ```
 bouts.csv = all_womens_foil_bout_data_May_13_2021_cleaned.csv 
